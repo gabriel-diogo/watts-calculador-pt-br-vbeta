@@ -1,0 +1,15 @@
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.csproj.AssemblyReference.cache
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.AssemblyInfoInputs.cache
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.AssemblyInfo.cs
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.csproj.CoreCompileInputs.cache
+C:\Users\biel\Desktop\c4\calculadov2\bin\Debug\net6.0\calculadov2.exe
+C:\Users\biel\Desktop\c4\calculadov2\bin\Debug\net6.0\calculadov2.deps.json
+C:\Users\biel\Desktop\c4\calculadov2\bin\Debug\net6.0\calculadov2.runtimeconfig.json
+C:\Users\biel\Desktop\c4\calculadov2\bin\Debug\net6.0\calculadov2.dll
+C:\Users\biel\Desktop\c4\calculadov2\bin\Debug\net6.0\calculadov2.pdb
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.dll
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\refint\calculadov2.dll
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.pdb
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\calculadov2.genruntimeconfig.cache
+C:\Users\biel\Desktop\c4\calculadov2\obj\Debug\net6.0\ref\calculadov2.dll
