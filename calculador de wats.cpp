@@ -63,26 +63,7 @@ int main(){
     
 
     
-   // int LCD32=120;int led40=130;int LCD40=200;int lcd42=250;int lcd46=280; 
-   // int led32=100;int  led46=150; int lcd52=310;int led52=200;int led64=250;
-   // int Micro_Ondas	=2000;int Ebulidor=	1000; int Ferro =1000;int Torneira=2500;
-   // int Aquecedor_passagem =6000;int Aquecedor_agua=2000;int Aquecedor_Ambiente=1000;
-   // int Freezer_Horizontal =500;int Freezer_Vertical=300; int Computador1=300;int EspFrutas=200;
-   // int Geladeira_Simples=250;int Geladeira_Duplex=500;int Maquina_Costura=100;int Exaustor=150;
-   // int Bomba_agua=	400	; int Grill=1200; int Mini_System=150;int Condicionador=1400;
-   // int Chuveiro =5500; int Cortador_Grama=	1300;int Enceradeira=300;int Secador=1000;
-   // int Secadora_Roupas=3500;int Torradeira=800; int pcgamer=600;int Impressora =45;
-   // int tvtubo =300;int Plasma50 =380 ;int Plasma42 =320 ;int tvled=300;int Televisor=200;
-   // int arcondicionado7500btu=1000;	int arco12000 =	1450;int arco18000 =2100;int Batedeira=100;	
-   // int arcondicionado10000btu=1350;int arco15000 =2000;  int Cafeteira=600;int Aspirador=600;
-   // int lanled =11;int lanfluorescente =23;int lustre=100;int Lavar_Louca=1500;int Slides=	200;
-   // int lanincandescente =100;int lapadatubular =40;int Churrasqueira =3000;int Liquidificador=	200;
-   // int Chuveiro3t= 5500; int Chuveiro4t= 6800 ;int Chuveirolx =7800;int Vetilador=	100;int Game=20;
-   // int lavaroupa8kg =200 ;int lavaroupa10kg =400;int lavaroupa12kg =500;int lavaseca =1500;
-   // int lavaroupa14kg =600;int lavaroupa16kg =700;int lavaroupa18kg =800;int lavaroupa20kg =1000;
-   // int som31=100;int SomAmplificada =500;int AmplificadaAmvoxACA =1500;int minisom =50;int DVD =30;
-   // int Fogao4Bocas=6000;int Fogao2Bocas=3000;int Forno_Pequeno=1500;int FornoGrande=4500;
-   
+
    
   
     cout<<"deseja calcular a pontencia de aparelhos (s/n)"<<endl;
